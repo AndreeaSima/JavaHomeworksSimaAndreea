@@ -1,3 +1,5 @@
+package javahomeworkssimaandreea;
+
 import java.util.Scanner;
 
 /*

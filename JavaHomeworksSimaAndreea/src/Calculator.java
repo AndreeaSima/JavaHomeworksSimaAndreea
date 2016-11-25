@@ -68,10 +68,7 @@ public class Calculator {
                 break;
                 default:
                     System.out.println("You are not choosing the correct option"); } 
-  
-                
-            
-        
+
     }
 }
     
